@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/Crystal-Screen/static/css/main.d5975965.css",
-    "main.js": "/Crystal-Screen/static/js/main.906f9b2d.js",
+    "main.css": "/Crystal-Screen/static/css/main.687418a5.css",
+    "main.js": "/Crystal-Screen/static/js/main.f79f2fd8.js",
     "static/js/453.23263ec9.chunk.js": "/Crystal-Screen/static/js/453.23263ec9.chunk.js",
-    "static/media/bg_2.jpg": "/Crystal-Screen/static/media/bg_2.6bbeac0b2473a853d7aa.jpg",
+    "static/media/bg_2.jpg": "/Crystal-Screen/static/media/bg_2.d836bae369f140e0fc9d.jpg",
     "static/media/winphoto_22.png": "/Crystal-Screen/static/media/winphoto_22.15b3be5bddd835b39251.png",
     "static/media/winphoto_19.png": "/Crystal-Screen/static/media/winphoto_19.4e4190dc020b84dbf596.png",
     "static/media/winphoto_21.png": "/Crystal-Screen/static/media/winphoto_21.a97034f5e4e56ad54dc3.png",
@@ -72,12 +72,12 @@
     "static/media/video-camera.svg": "/Crystal-Screen/static/media/video-camera.777d46300ac195643f1029ddada4d8ec.svg",
     "static/media/3d-movie.svg": "/Crystal-Screen/static/media/3d-movie.8723b54096ab12680845a466eaea2b1f.svg",
     "index.html": "/Crystal-Screen/index.html",
-    "main.d5975965.css.map": "/Crystal-Screen/static/css/main.d5975965.css.map",
-    "main.906f9b2d.js.map": "/Crystal-Screen/static/js/main.906f9b2d.js.map",
+    "main.687418a5.css.map": "/Crystal-Screen/static/css/main.687418a5.css.map",
+    "main.f79f2fd8.js.map": "/Crystal-Screen/static/js/main.f79f2fd8.js.map",
     "453.23263ec9.chunk.js.map": "/Crystal-Screen/static/js/453.23263ec9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5975965.css",
-    "static/js/main.906f9b2d.js"
+    "static/css/main.687418a5.css",
+    "static/js/main.f79f2fd8.js"
   ]
 }
