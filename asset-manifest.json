@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Crystal-Screen/static/css/main.359c3a7b.css",
+    "main.js": "/Crystal-Screen/static/js/main.1d509a2d.js",
+    "static/js/453.ae3339de.chunk.js": "/Crystal-Screen/static/js/453.ae3339de.chunk.js",
+    "static/media/bg.jpg": "/Crystal-Screen/static/media/bg.9ab1378465e70833d6d6.jpg",
+    "static/media/secondImage.jpg": "/Crystal-Screen/static/media/secondImage.dd5cfe4bd736def9bfe7.jpg",
+    "static/media/firstImage.jpg": "/Crystal-Screen/static/media/firstImage.80bec705b39db2776466.jpg",
+    "static/media/about-img.jpg": "/Crystal-Screen/static/media/about-img.18baa7090b3795249c78.jpg",
+    "static/media/special-effects.svg": "/Crystal-Screen/static/media/special-effects.36329f4d05feb8a413e4080694c698f8.svg",
+    "static/media/host.svg": "/Crystal-Screen/static/media/host.6c0a49d68694e20dc8b84eccde33b72f.svg",
+    "static/media/music.svg": "/Crystal-Screen/static/media/music.dbd35ffa453eef859a9f7880d51b09b4.svg",
+    "static/media/actor.svg": "/Crystal-Screen/static/media/actor.ab88f88d9bc25e97581d7c49477bc87c.svg",
+    "static/media/videography.svg": "/Crystal-Screen/static/media/videography.3fc2551f501bdb6ef6a136cf65a6cf27.svg",
+    "static/media/cinema.svg": "/Crystal-Screen/static/media/cinema.e5eb42fa27008aef7d5b5b9c8e2fd039.svg",
+    "static/media/video-editing.svg": "/Crystal-Screen/static/media/video-editing.8a12f80538be996d6422fa52613fddaa.svg",
+    "static/media/video-camera.svg": "/Crystal-Screen/static/media/video-camera.777d46300ac195643f1029ddada4d8ec.svg",
+    "static/media/3d-movie.svg": "/Crystal-Screen/static/media/3d-movie.8723b54096ab12680845a466eaea2b1f.svg",
+    "index.html": "/Crystal-Screen/index.html",
+    "main.359c3a7b.css.map": "/Crystal-Screen/static/css/main.359c3a7b.css.map",
+    "main.1d509a2d.js.map": "/Crystal-Screen/static/js/main.1d509a2d.js.map",
+    "453.ae3339de.chunk.js.map": "/Crystal-Screen/static/js/453.ae3339de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.359c3a7b.css",
+    "static/js/main.1d509a2d.js"
+  ]
+}
