@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Crystal-Screen/static/css/main.687418a5.css",
-    "main.js": "/Crystal-Screen/static/js/main.f79f2fd8.js",
+    "main.css": "/Crystal-Screen/static/css/main.cd0bec36.css",
+    "main.js": "/Crystal-Screen/static/js/main.22b67503.js",
     "static/js/453.23263ec9.chunk.js": "/Crystal-Screen/static/js/453.23263ec9.chunk.js",
     "static/media/bg_2.jpg": "/Crystal-Screen/static/media/bg_2.d836bae369f140e0fc9d.jpg",
     "static/media/winphoto_22.png": "/Crystal-Screen/static/media/winphoto_22.15b3be5bddd835b39251.png",
@@ -63,21 +63,25 @@
     "static/media/winphoto_9.jpg": "/Crystal-Screen/static/media/winphoto_9.3b42792f0d10a7c7f695.jpg",
     "static/media/about-img.jpg": "/Crystal-Screen/static/media/about-img.18baa7090b3795249c78.jpg",
     "static/media/special-effects.svg": "/Crystal-Screen/static/media/special-effects.36329f4d05feb8a413e4080694c698f8.svg",
+    "static/media/series.svg": "/Crystal-Screen/static/media/series.5a96f667f9ef76813d9a6e1a55d6a11c.svg",
+    "static/media/producer.svg": "/Crystal-Screen/static/media/producer.5119afe775933cd79a98da80075728f7.svg",
     "static/media/host.svg": "/Crystal-Screen/static/media/host.6c0a49d68694e20dc8b84eccde33b72f.svg",
     "static/media/music.svg": "/Crystal-Screen/static/media/music.dbd35ffa453eef859a9f7880d51b09b4.svg",
     "static/media/actor.svg": "/Crystal-Screen/static/media/actor.ab88f88d9bc25e97581d7c49477bc87c.svg",
+    "static/media/short.svg": "/Crystal-Screen/static/media/short.5086497f9a705461889771c84534feeb.svg",
     "static/media/videography.svg": "/Crystal-Screen/static/media/videography.3fc2551f501bdb6ef6a136cf65a6cf27.svg",
+    "static/media/televisions.svg": "/Crystal-Screen/static/media/televisions.236a3bdc8553a79e280df53e2c75b0e2.svg",
     "static/media/cinema.svg": "/Crystal-Screen/static/media/cinema.e5eb42fa27008aef7d5b5b9c8e2fd039.svg",
     "static/media/video-editing.svg": "/Crystal-Screen/static/media/video-editing.8a12f80538be996d6422fa52613fddaa.svg",
     "static/media/video-camera.svg": "/Crystal-Screen/static/media/video-camera.777d46300ac195643f1029ddada4d8ec.svg",
     "static/media/3d-movie.svg": "/Crystal-Screen/static/media/3d-movie.8723b54096ab12680845a466eaea2b1f.svg",
     "index.html": "/Crystal-Screen/index.html",
-    "main.687418a5.css.map": "/Crystal-Screen/static/css/main.687418a5.css.map",
-    "main.f79f2fd8.js.map": "/Crystal-Screen/static/js/main.f79f2fd8.js.map",
+    "main.cd0bec36.css.map": "/Crystal-Screen/static/css/main.cd0bec36.css.map",
+    "main.22b67503.js.map": "/Crystal-Screen/static/js/main.22b67503.js.map",
     "453.23263ec9.chunk.js.map": "/Crystal-Screen/static/js/453.23263ec9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.687418a5.css",
-    "static/js/main.f79f2fd8.js"
+    "static/css/main.cd0bec36.css",
+    "static/js/main.22b67503.js"
   ]
 }
