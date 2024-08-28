@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/Crystal-Screen/static/css/main.cd0bec36.css",
-    "main.js": "/Crystal-Screen/static/js/main.22b67503.js",
+    "main.css": "/Crystal-Screen/static/css/main.a1ffe272.css",
+    "main.js": "/Crystal-Screen/static/js/main.845eea26.js",
     "static/js/453.23263ec9.chunk.js": "/Crystal-Screen/static/js/453.23263ec9.chunk.js",
+    "static/media/grand.jpg": "/Crystal-Screen/static/media/grand.c49bff41c54e0f22de15.jpg",
     "static/media/bg_2.jpg": "/Crystal-Screen/static/media/bg_2.d836bae369f140e0fc9d.jpg",
     "static/media/winphoto_22.png": "/Crystal-Screen/static/media/winphoto_22.15b3be5bddd835b39251.png",
     "static/media/winphoto_19.png": "/Crystal-Screen/static/media/winphoto_19.4e4190dc020b84dbf596.png",
@@ -62,6 +63,7 @@
     "static/media/winphoto_40.jpg": "/Crystal-Screen/static/media/winphoto_40.289077b5daea997b42ac.jpg",
     "static/media/winphoto_9.jpg": "/Crystal-Screen/static/media/winphoto_9.3b42792f0d10a7c7f695.jpg",
     "static/media/about-img.jpg": "/Crystal-Screen/static/media/about-img.18baa7090b3795249c78.jpg",
+    "static/media/logo.svg": "/Crystal-Screen/static/media/logo.236139c0d43de0dacf5d58cd35a4d80d.svg",
     "static/media/special-effects.svg": "/Crystal-Screen/static/media/special-effects.36329f4d05feb8a413e4080694c698f8.svg",
     "static/media/series.svg": "/Crystal-Screen/static/media/series.5a96f667f9ef76813d9a6e1a55d6a11c.svg",
     "static/media/producer.svg": "/Crystal-Screen/static/media/producer.5119afe775933cd79a98da80075728f7.svg",
@@ -76,12 +78,12 @@
     "static/media/video-camera.svg": "/Crystal-Screen/static/media/video-camera.777d46300ac195643f1029ddada4d8ec.svg",
     "static/media/3d-movie.svg": "/Crystal-Screen/static/media/3d-movie.8723b54096ab12680845a466eaea2b1f.svg",
     "index.html": "/Crystal-Screen/index.html",
-    "main.cd0bec36.css.map": "/Crystal-Screen/static/css/main.cd0bec36.css.map",
-    "main.22b67503.js.map": "/Crystal-Screen/static/js/main.22b67503.js.map",
+    "main.a1ffe272.css.map": "/Crystal-Screen/static/css/main.a1ffe272.css.map",
+    "main.845eea26.js.map": "/Crystal-Screen/static/js/main.845eea26.js.map",
     "453.23263ec9.chunk.js.map": "/Crystal-Screen/static/js/453.23263ec9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd0bec36.css",
-    "static/js/main.22b67503.js"
+    "static/css/main.a1ffe272.css",
+    "static/js/main.845eea26.js"
   ]
 }
