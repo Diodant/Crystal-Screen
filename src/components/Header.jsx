@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { NavLink } from 'react-router-dom';
+import logoImage from '../img/logo.svg';
 
 const Header = () => {
   const [isDropdownOpen, setDropdownOpen] = useState(false);
@@ -11,10 +12,12 @@ const Header = () => {
   return (
     <header className="header">
       <div className="logo">
-        <NavLink to="/" className="logo-link">Logo</NavLink>
+        <NavLink to="/" className="logo-link">
+          <img src={logoImage} alt="Logo" className="logo-image" />
+        </NavLink>
       </div>
       <nav className="navbar">
-        <NavLink exact to="/" activeClassName="active-link">Домой</NavLink>
+        <NavLink exact to="/" activeClassName="active-link">Главная</NavLink>
         
         <div 
           className={`dropdown ${isDropdownOpen ? 'open' : ''}`} 
@@ -32,10 +35,11 @@ const Header = () => {
           )}
         </div>
 
-        <NavLink to="/services" activeClassName="active-link">Жюри</NavLink>
-        <NavLink to="/blog" activeClassName="active-link">Победители</NavLink>
-        <NavLink to="/contact" activeClassName="active-link">Контакты</NavLink>
-        <NavLink to="/article" activeClassName="active-link">Стать</NavLink>
+        <NavLink to="/jury" activeClassName="active-link">Жюри</NavLink>
+        <NavLink to="/winners" activeClassName="active-link">Победители</NavLink>
+        <NavLink to="/grandprix" activeClassName="active-link">Гран-при</NavLink>
+        <NavLink to="/contacts" activeClassName="active-link">Контакты</NavLink>
+        <NavLink to="/articles" activeClassName="active-link">Статьи</NavLink>
       </nav>
       <NavLink to="/apply" className="contact-button">
         Заявка

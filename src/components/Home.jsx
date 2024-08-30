@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import backgroundImage from '../img/bg.jpg';
 import firstImage from '../img/firstImage.jpg'; 
 import secondImage from '../img/secondImage.jpg';
+import grandImage from '../img/grand.jpg';
 import Nominations from './Nominations';
 
 const Home = () => {
@@ -44,6 +45,26 @@ const Home = () => {
     </div>
     </section>
     <Nominations/>
+
+    <section className="image-text-section">
+    <div className="image-text-section__image">
+        <img src={grandImage} alt="Crystal Screen" />
+      </div>
+      <div className="grand-container">
+      <span className="subtitle">Since From 2018</span>
+      <div className='grand-title-container'>
+      <h1>Crystal Screen</h1>
+      <h2>Гран-при за вклад в профессию</h2>
+      
+      </div>
+      <p>Гран-при за вклад в профессию — это особая награда, вручаемая на церемонии международного фестиваля кино и телевидения Crystal Screen. Этот приз является одним из самых значимых и почетных в кинематографической индустрии, поскольку он отмечает не отдельные фильмы или роли, а всю карьеру и вклад в развитие мирового кино. </p>
+      <Link to="/grandprix" className="learn-more-button">
+        Узнать больше
+      </Link>
+    </div>
+    </section>
+
+
     </>
   );
 };
