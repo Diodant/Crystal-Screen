@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Crystal-Screen/static/css/main.31e8e147.css",
-    "main.js": "/Crystal-Screen/static/js/main.d4d780d9.js",
+    "main.js": "/Crystal-Screen/static/js/main.e4422ddb.js",
     "static/js/453.23263ec9.chunk.js": "/Crystal-Screen/static/js/453.23263ec9.chunk.js",
     "static/media/grand.jpg": "/Crystal-Screen/static/media/grand.c49bff41c54e0f22de15.jpg",
     "static/media/jury-bg.jpg": "/Crystal-Screen/static/media/jury-bg.69e089999653b9f87449.jpg",
@@ -118,11 +118,11 @@
     "static/media/3d-movie.svg": "/Crystal-Screen/static/media/3d-movie.8723b54096ab12680845a466eaea2b1f.svg",
     "index.html": "/Crystal-Screen/index.html",
     "main.31e8e147.css.map": "/Crystal-Screen/static/css/main.31e8e147.css.map",
-    "main.d4d780d9.js.map": "/Crystal-Screen/static/js/main.d4d780d9.js.map",
+    "main.e4422ddb.js.map": "/Crystal-Screen/static/js/main.e4422ddb.js.map",
     "453.23263ec9.chunk.js.map": "/Crystal-Screen/static/js/453.23263ec9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31e8e147.css",
-    "static/js/main.d4d780d9.js"
+    "static/js/main.e4422ddb.js"
   ]
 }
