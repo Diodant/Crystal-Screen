@@ -3,8 +3,26 @@ import PageHeader from './PageHeader';
 import backgroundImage from '../img/bg_2.jpg';
 import grandImage from '../img/jury-bg.jpg';
 import juryImage1 from '../img/jury/jury_1.webp'; 
-import juryImage2 from '../img/jury/jury_1.webp';
-import juryImage3 from '../img/jury/jury_1.webp';
+import juryImage2 from '../img/jury/jury_2.webp';
+import juryImage3 from '../img/jury/jury_3.webp';
+import juryImage4 from '../img/jury/jury_4.webp';
+import juryImage5 from '../img/jury/jury_5.webp';
+import juryImage6 from '../img/jury/jury_6.webp';
+import juryImage7 from '../img/jury/jury_7.webp';
+import juryImage8 from '../img/jury/jury_8.webp';
+import juryImage9 from '../img/jury/jury_9.webp';
+import juryImage10 from '../img/jury/jury_10.webp';
+import juryImage11 from '../img/jury/jury_11.webp';
+import juryImage12 from '../img/jury/jury_12.webp';
+import juryImage13 from '../img/jury/jury_13.webp';
+import juryImage14 from '../img/jury/jury_14.webp';
+import juryImage15 from '../img/jury/jury_15.webp';
+import juryImage16 from '../img/jury/jury_16.webp';
+import juryImage17 from '../img/jury/jury_17.webp';
+import juryImage18 from '../img/jury/jury_18.webp';
+import juryImage19 from '../img/jury/jury_19.webp';
+import juryImage20 from '../img/jury/jury_20.webp';
+import juryImage21 from '../img/jury/jury_21.webp';
 
 const JuryPage = () => {
   const [selectedYear, setSelectedYear] = useState('2018');
@@ -50,19 +68,19 @@ const JuryPage = () => {
         role: 'Председатель',
         name: 'Марина Воронцова',
         description: 'Режиссер-документалист, лауреат премии «Ника», с опытом более 18 лет.',
-        image: juryImage1,
+        image: juryImage4,
       },
       {
         role: 'Председатель',
         name: 'Игорь Николаев',
         description: 'Продюсер, лауреат Каннского кинофестиваля, с опытом более 20 лет.',
-        image: juryImage2,
+        image: juryImage5,
       },
       {
         role: 'Председатель',
         name: 'Алексей Лебедев',
         description: 'Оператор, лауреат премии «Белый квадрат», с опытом более 12 лет.',
-        image: juryImage3,
+        image: juryImage6,
       },
       {
         role: 'Эксперт',
@@ -85,19 +103,19 @@ const JuryPage = () => {
         role: 'Председатель',
         name: 'Николай Андреев',
         description: 'Режиссер, лауреат премии «Золотой орел», с опытом более 25 лет.',
-        image: juryImage1,
+        image: juryImage7,
       },
       {
         role: 'Председатель',
         name: 'Елена Федорова',
         description: 'Продюсер, номинант на премию Оскар, с опытом более 20 лет.',
-        image: juryImage2,
+        image: juryImage8,
       },
       {
         role: 'Председатель',
         name: 'Артем Смирнов',
         description: 'Оператор, лауреат международных премий, с опытом более 15 лет.',
-        image: juryImage3,
+        image: juryImage9,
       },
       {
         role: 'Эксперт',
@@ -120,19 +138,19 @@ const JuryPage = () => {
         role: 'Председатель',
         name: 'Дмитрий Васильев',
         description: 'Режиссер, лауреат международных фестивалей, с опытом более 20 лет.',
-        image: juryImage1,
+        image: juryImage10,
       },
       {
         role: 'Председатель',
         name: 'Ольга Иванова',
         description: 'Продюсер, лауреат премии «Ника», с опытом более 18 лет.',
-        image: juryImage2,
+        image: juryImage11,
       },
       {
         role: 'Председатель',
         name: 'Алексей Павлов',
         description: 'Оператор, лауреат премии «Белый квадрат», с опытом более 14 лет.',
-        image: juryImage3,
+        image: juryImage12,
       },
       {
         role: 'Эксперт',
@@ -155,19 +173,19 @@ const JuryPage = () => {
         role: 'Председатель',
         name: 'Анна Ковалева',
         description: 'Режиссер, лауреат международных премий, с опытом более 22 лет.',
-        image: juryImage1,
+        image: juryImage13,
       },
       {
         role: 'Председатель',
         name: 'Игорь Федоров',
         description: 'Продюсер, номинант на премию Оскар, с опытом более 20 лет.',
-        image: juryImage2,
+        image: juryImage14,
       },
       {
         role: 'Председатель',
         name: 'Владимир Петров',
         description: 'Оператор, лауреат международных фестивалей, с опытом более 15 лет.',
-        image: juryImage3,
+        image: juryImage15,
       },
       {
         role: 'Эксперт',
@@ -190,19 +208,19 @@ const JuryPage = () => {
         role: 'Председатель',
         name: 'Петр Васильев',
         description: 'Режиссер, лауреат международных премий, с опытом более 25 лет.',
-        image: juryImage1,
+        image: juryImage16,
       },
       {
         role: 'Председатель',
         name: 'Елизавета Смирнова',
         description: 'Продюсер, лауреат премии «Золотой орел», с опытом более 20 лет.',
-        image: juryImage2,
+        image: juryImage17,
       },
       {
         role: 'Председатель',
         name: 'Сергей Кузнецов',
         description: 'Оператор, лауреат международных фестивалей, с опытом более 15 лет.',
-        image: juryImage3,
+        image: juryImage18,
       },
       {
         role: 'Эксперт',
@@ -225,19 +243,19 @@ const JuryPage = () => {
         role: 'Председатель',
         name: 'Борис Иванов',
         description: 'Режиссер, лауреат международных фестивалей, с опытом более 30 лет.',
-        image: juryImage1,
+        image: juryImage19,
       },
       {
         role: 'Председатель',
         name: 'Анна Лебедева',
         description: 'Продюсер, номинант на премию Оскар, с опытом более 22 лет.',
-        image: juryImage2,
+        image: juryImage20,
       },
       {
         role: 'Председатель',
         name: 'Артем Новиков',
         description: 'Оператор, лауреат премии «Белый квадрат», с опытом более 15 лет.',
-        image: juryImage3,
+        image: juryImage21,
       },
       {
         role: 'Эксперт',

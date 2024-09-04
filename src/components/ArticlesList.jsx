@@ -27,7 +27,7 @@ const ArticlesList = () => {
                 <span className="article-date">{article.date}</span>
               </div>
               <h2 className="article-title"><Link to={`/articles/${article.id}`}>{article.title}</Link></h2>
-              <Link to={`/articles/${article.id}`} className="article-read-more">READ MORE</Link>
+              <Link to={`/articles/${article.id}`} className="article-read-more">ПОДРОБНЕЕ</Link>
             </div>
           </div>
         ))}

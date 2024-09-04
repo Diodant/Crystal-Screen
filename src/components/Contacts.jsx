@@ -13,7 +13,7 @@ const Contacts = () => {
       title="Контакты" 
       subtitle="Crystal Screen"
     />
-        <h2 className='contact-title'>Гильдия кинематографистов России</h2>
+        {/* <h2 className='contact-title'>Гильдия кинематографистов России</h2>
     <div className="contact-section">
         
       <div className="contact-card">
@@ -37,7 +37,7 @@ const Contacts = () => {
         <img src={phoneIcon} alt="Phone Icon" className="contact-icon" />
         <div className="contact-number">03</div>
       </div>
-    </div>
+    </div> */}
     <h2 className='contact-title'>Союз кинематографистов Российской Федерации</h2>
     <div className="contact-section">
         

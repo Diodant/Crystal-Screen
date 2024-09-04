@@ -23,6 +23,8 @@ const Article = () => {
           return <p key={index} className="article-paragraph">{block.text}</p>;
         case 'header':
           return <h5 key={index} className="article-header">{block.text}</h5>;
+          case 'sub-header':
+            return <h6 key={index} className="article-sub-header">{block.text}</h6>;
         case 'image':
           return <img key={index} src={block.src} alt={block.alt} className="article-page-image" />;
         case 'list':
