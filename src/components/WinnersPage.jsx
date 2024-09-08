@@ -76,6 +76,9 @@ const WinnersPage = () => {
       />
       <div className="winners-header">
         <h2>Победители {ceremonyNumber} церемонии фестиваля Crystal Screen {selectedYear}</h2>
+        <div className="sub-text">
+          {currentYearData?.text || "Текст для этого года отсутствует."}
+        </div>
         <div className="year-selector">
           {Object.keys(winnersData).map((year) => (
             <button 
@@ -95,9 +98,9 @@ const WinnersPage = () => {
           {currentYearData?.cinema?.map((winner, index) => (
             <div className="winner-item" key={index}>
               <div className="winner-title">{winner.title}</div>
-              <div className="winner-details-text"><span>Режиссёр:</span> {winner.winner}</div>
+              <div className="winner-details-text"> {winner.winner}</div>
               <div className="winner-details">
-                <div className="winner-details-text"><span>Достижение:</span> {winner.text}</div>
+                <div className="winner-details-text"> {winner.text}</div>
                 <div className="winner-details-text"><span>Фильм:</span> {winner.film}</div>
                 <div className="winner-details-text"><span>Год:</span> {winner.year}</div>
               </div>
@@ -110,9 +113,9 @@ const WinnersPage = () => {
           {currentYearData?.television?.map((winner, index) => (
             <div className="winner-item" key={index}>
               <div className="winner-title">{winner.title}</div>
-              <div className="winner-details-text"><span>Режиссёр:</span> {winner.winner}</div>
+              <div className="winner-details-text"> {winner.winner}</div>
               <div className="winner-details">
-                <div className="winner-details-text"><span>Достижение:</span> {winner.text}</div>
+                <div className="winner-details-text"> {winner.text}</div>
                 <div className="winner-details-text"><span>Год:</span> {winner.year}</div>
               </div>
             </div>
