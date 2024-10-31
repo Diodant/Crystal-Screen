@@ -54,6 +54,7 @@ const Article = () => {
         <div className="article-page-content">
           {renderContent(article.content)}
         </div>
+        <div className="article-page-autor">Автор: {article.autor}</div>
       </div>
     </div>
     </>

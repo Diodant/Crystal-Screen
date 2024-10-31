@@ -21,7 +21,7 @@ import juryImage16 from '../img/jury/jury_16.webp';
 import juryImage17 from '../img/jury/jury_17.webp';
 import juryImage18 from '../img/jury/jury_18.webp';
 import juryImage19 from '../img/jury/jury_19.webp';
-import juryImage20 from '../img/jury/jury_20.webp';
+import juryImage20 from '../img/jury/jury_20.jpg';
 import juryImage21 from '../img/jury/jury_21.webp';
 
 const JuryPage = () => {
@@ -247,8 +247,8 @@ const JuryPage = () => {
       },
       {
         role: 'Председатель',
-        name: 'Анна Лебедева',
-        description: 'Продюсер, номинант на премию Оскар, с опытом более 22 лет.',
+        name: 'Оксана Кириллова',
+        description: 'Продюсер, лауреат Международных премий, с опытом работы более 10 лет. ',
         image: juryImage20,
       },
       {
