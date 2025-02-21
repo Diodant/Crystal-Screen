@@ -12,6 +12,7 @@ import iconImg10 from '../img/nominations/short.svg';
 import iconImg11 from '../img/nominations/televisions.svg';
 import iconImg12 from '../img/nominations/series.svg';
 import iconImg13 from '../img/nominations/producer.svg';
+import iconImg14 from '../img/nominations/vision.png';
 
 const nominationsData = [
     // Кинономинации
@@ -99,6 +100,12 @@ const nominationsData = [
         category: "Телевизионные номинации",
         description: "Награда за выдающееся руководство процессом создания телевизионного проекта.",
         icon: iconImg2,
+    },
+    {
+        title: "Лучший художник по свету телевизионного проекта",
+        category: "Телевизионные номинации",
+        description: "Награда за выдающееся мастерство в создании светового дизайна для телевизионного шоу или сериала.",
+        icon: iconImg14,
     },
     {
         title: "Лучший сценарий телевизионного проекта",

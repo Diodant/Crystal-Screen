@@ -70,6 +70,7 @@ const PositionPage = () => {
                   <li className="criteria-list__item">Лучшая телевизионная программа</li>
                   <li className="criteria-list__item">Лучший телевизионный сериал</li>
                   <li className="criteria-list__item">Лучший режиссер телевизионного проекта</li>
+                  <li className="criteria-list__item">Лучший художник по свету телевизионного проекта</li>
                   <li className="criteria-list__item">Лучший сценарий телевизионного проекта</li>
                   <li className="criteria-list__item">Лучшая операторская работа для телевидения</li>
                   <li className="criteria-list__item">Лучший монтаж для телевидения</li>
